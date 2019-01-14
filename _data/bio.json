@@ -30,10 +30,11 @@
   "interests": [
     {
       "name": "Game development",
-      "keywords": [
-        "",
-        ""
-      ]
+      "keywords": []
+    },
+    {
+      "name": "Sustainability",
+      "keywords": []
     }
   ],
   "skills": [
