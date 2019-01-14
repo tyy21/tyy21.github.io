@@ -2,7 +2,7 @@
   "basics": {
     "name": "Ty Yamasaki",
     "label": "Student",
-    "picture": "",
+    "picture": "IMG_20180704_174647.jpg",
     "email": "tyy21@hawaii.edu",
     "phone": "",
     "website": "https://tyy21.github.io",
@@ -22,27 +22,17 @@
       },
       {
         "network": "linkedin",
-        "username": "",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "tyyamasaki",
+        "url": "https://www.linkedin.com/in/ty-yamasaki-51314a178/"
       },
     ]
   },
   "interests": [
     {
-      "name": "",
+      "name": "Game development",
       "keywords": [
         "",
         ""
-      ]
-    },
-    {
-      "name": "",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "",
-      "keywords": [
       ]
     }
   ],
@@ -61,17 +51,14 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows 10"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2016-09",
       "endDate": "Present",
