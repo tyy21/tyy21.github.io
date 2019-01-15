@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript: An Oddity
+title: Javascript, An Oddity
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-14
 labels:
