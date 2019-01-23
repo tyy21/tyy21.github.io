@@ -17,7 +17,7 @@ Eric Steven Raymond and Rick Moen's "How To Ask Smart Questions" is an interesti
 ## Don't be a Waste of Time
 From what I understand, the main takeaway from this article seems to be "don't waste anyone's time when asking questions". Whether it be your time or the time of others, asking questions in which the answer can easily be found or questions that show the laziness of the asker just waste the time of many different people. Wasting people's time with bad questions will likely make them irritated with the one asking it and may lead to sarcastic or troll answers in an attempt to waste more of the asker's time.
 
-<img class="ui medium center circular floated image" src="../images/timewaste.jpg">
+<img class="image" src="../images/timewaste.jpg">
 
 
 Here are some examples of questions asked on stackoverflow that can be categorized as "smart" and "not so smart".
