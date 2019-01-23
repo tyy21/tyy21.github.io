@@ -17,7 +17,7 @@ Eric Steven Raymond and Rick Moen's "How To Ask Smart Questions" is an interesti
 ## Don't be a Waste of Time
 From what I understand, the main takeaway from this article seems to be "don't waste anyone's time when asking questions". Whether it be your time or the time of others, asking questions in which the answer can easily be found or questions that show the laziness of the asker just waste the time of many different people. Wasting people's time with bad questions will likely make them irritated with the one asking it and may lead to sarcastic or troll answers in an attempt to waste more of the asker's time.
 
-<img class="ui medium rounded centered image" src="../images/timewaste.jpg">
+<img class="ui large rounded centered image" src="../images/timewaste.jpg">
 
 
 ## Example Questions
@@ -36,5 +36,5 @@ This question is good because it poses an interesting question that is not quite
 
 This question is bad for multiple reasons. First off, it seems like a homework question that should be figured out on one's own. It is also a question that can be answered incredibly easily using google. Many that replied to the question seem to understand that and took the time to say "Look it up on Google". This kind of question is a huge waste of time for everyone as those that see the question have no need to answer and the one asking likely could have found the answer more quickly if they had done some research before posting the question.
 
-<img class="ui medium rounded centered image" src="../images/stupidquestions.jpg">
+<img class="ui large rounded centered image" src="../images/stupidquestions.jpg">
 
