@@ -20,7 +20,7 @@ From what I understand, the main takeaway from this article seems to be "don't w
 <img class="ui tiny left circular floated image" src="../images/timewaste.jpg">
 
 
-Here are some exmaples of questions asked on stackoverflow that can be categorized as "smart" and "not so smart".
+Here are some examples of questions asked on stackoverflow that can be categorized as "smart" and "not so smart".
 
 
 ## Example 1
