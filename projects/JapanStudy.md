@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/japanflag.jpg
 title: Study Abroad
-permalink: 
+permalink: studyabroad
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-23
 labels:
