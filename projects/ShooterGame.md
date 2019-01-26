@@ -12,5 +12,4 @@ labels:
 summary: I helped create a Space Invaders-esque shooter game using Java and the EZLibrary.
 ---
 
-The ICS 111 class at UH Manoa requires all students to create a game for a final project using Java and the EZLibrary.
-This project could be done either as an individual or 
+The ICS 111 class at UH Manoa requires all students to create a game for a final project using Java and the EZLibrary. This project could be done either as an individual or 
