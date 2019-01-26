@@ -16,7 +16,7 @@ I decided to go abroad for the Spring 2018 semester in order to broaden my cultu
 
 <img class="ui medium rounded spaced image" src="../images/hitotsubashi.jpg">
 <img class="ui medium rounded spaced image" src="../images/sumo.jpg">
-<img class="ui medium rounded spaced image" src="../images/kimono.jpg">
+<img class="ui medium rounded floated image" src="../images/kimono.jpg">
 
 
 A part of the program was to put together a collaborative portfolio of many of the different cultural showcases that my classmates and I experienced. This portfolio, similar to a travel magazine or travel blog, consists of write-ups and reflections of each of the different activities as well as a large supply of photos that demonstrate each event.
