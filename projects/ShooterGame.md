@@ -18,5 +18,5 @@ The ICS 111 class at UH Manoa requires all students to create a game for a final
 
 The project had a list of requirements, forcing students to include certain aspects in their games. This list included things like 2D arrays, object oriented programming, and inheritance, giving a great overview of Java's many traits and what Java is capable of. The project was completed over the course of about a month and required strong time management skills, as well as good communication and teamwork. This project was a great learning experience, getting me to try my hand at game development and providing a good environment for learning the basics of Java.
 
-[Game File] (https://drive.google.com/file/d/0B30k8Qb1S_vVZnp0MTd1a0ZvZWM/view?usp=sharing)
+[Game File](https://drive.google.com/file/d/0B30k8Qb1S_vVZnp0MTd1a0ZvZWM/view?usp=sharing)
 *Requires EZLibrary*
