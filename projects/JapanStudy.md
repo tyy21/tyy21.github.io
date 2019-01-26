@@ -14,8 +14,8 @@ summary: I participated in a study abroad program in which I lived and studied i
 
 I decided to go abroad for the Spring 2018 semester in order to broaden my cultural and linguistic knowledge. Japan was my number 1 choice for this as I had already visited once before and knew some of the language, having taken up to Japanese 302 level courses at UH Manoa. During my stay abroad I was able to experience many different aspects of Japanese culture. This includes taking a variety of Japanese-based classes like Japanese Art and Japanese Automotive Industry, as well as enjoying recreational activities like watching a sumo tournament and being part of a tea ceremony.
 
-<img class="ui medium rounded floated image" src="../images/hitotsubashi.jpg">
-<img class="ui medium rounded floated image" src="../images/sumo.jpg">
+<img class="ui medium rounded spaced image" src="../images/hitotsubashi.jpg">
+<img class="ui medium rounded spaced image" src="../images/sumo.jpg">
 <img class="ui medium rounded floated image" src="../images/kimono.jpg">
 
 
