@@ -16,6 +16,8 @@ I decided to go abroad for the Spring 2018 semester in order to broaden my cultu
 
 <img class="ui medium rounded spaced image" src="../images/hitotsubashi.jpg">
 <img class="ui medium rounded spaced image" src="../images/sumo.jpg">
+
+
 <img class="ui medium rounded floated image" src="../images/kimono.jpg">
 
 
