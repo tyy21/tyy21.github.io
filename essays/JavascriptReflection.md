@@ -23,4 +23,3 @@ I personally have absolutely no clue whether or not Javascript works well from t
 ## The WODs
 The idea of "athletic" software engineering and the concept of having WODs is pretty interesting. I find that it is definitely more enjoyable than sitting in a boring lecture for 2 hours trying not to fall asleep. However, there is some sense of stress to it as there is an urgency to it. The fact that it is timed makes it much more stressful as I need to read the problem, type out code to solve the problem, test the code, and edit the code until it works, all within x minutes. Just thinking about having a grade based on strict time constraints like that are anxiety inducing. For now, I think they're okay, but my opinion may change in the future as the assignments become more difficult.
 
-<img class="ui tiny left circular floated image" src="../images/software-code.jpg">
