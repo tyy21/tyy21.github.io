@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: studyhublogo.png
+image: images/studyhublogo.png
 title: Manoa Study Hub
 permalink: manoastudyhub
 date: 2019-05-06
